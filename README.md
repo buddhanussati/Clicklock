@@ -10,7 +10,7 @@
 
 ## 🛠️ Installation
 
-1. Download `clicklock.exe` from the [Releases](https://www.google.com/search?q=%23) section.
+1. Download `clicklock.exe` from the [Releases](https://github.com/buddhanussati/Clicklock/releases) section.
 2. Run the executable.
 3. (Optional) Place a shortcut in your `shell:startup` folder to have it run automatically when Windows starts.
 
