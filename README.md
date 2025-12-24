@@ -8,6 +8,8 @@
 * **Toggle Dragging:** Press **Middle Mouse Button (MButton)** to start a selection.
 * **Sticky Highlights:** The selection remains active even if you move the mouse freely.
 * **Intuitive Release:** Simply **Left Click** anywhere to "drop" the lock and finalize the highlight without losing your selection.
+
+  
 ![clicklock2](https://github.com/user-attachments/assets/3aa8655a-806d-4b4e-a5f0-7f89675d391f)
 
 ## 🛠️ Installation
